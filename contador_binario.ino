@@ -1,3 +1,11 @@
+/* 
+
+  CONTADOR BINARIO DE 4 BITS - ARDUINO UNO R3
+  Benjamin Hernández Herrera
+
+*/
+
+
 // Definición de pines para conectar LEDs
 const int ledPins[] = {2, 3, 4, 5}; // Pines para conectar los LEDs
 const int numPins = 4; // Número de LEDs
